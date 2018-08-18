@@ -1,2 +1,2 @@
 # javascript-basics
-This is for javascript practise purpose
+This is for javascript practice.
